@@ -30,8 +30,17 @@ The system follows a modular architecture to ensure high availability and data i
 * **Libraries**: `psycopg2`, `python-dotenv`, `smtplib`
 * **Automation**: Windows Task Scheduler & Batch Scripting
 
-## 🚀 Installation & Setup
+### Update "Tech Stack"
+Pastikan bagian Tech Stack Anda sekarang mencakup C++:
 
+```markdown
+## 🛠️ Tech Stack
+* **Core Logic**: Python 3.10+
+* **Interface/Launcher**: C++ (Standard 11)
+* **Database**: PostgreSQL 14+
+* **Automation**: Windows Task Scheduler & Batch Scripting
+
+## 🚀 Installation & Setup
 1. **Clone the repository**:
    ```bash
    git clone [https://github.com/yourusername/pg-backup-mirror.git](https://github.com/yourusername/pg-backup-mirror.git)
