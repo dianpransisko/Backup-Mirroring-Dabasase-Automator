@@ -2,7 +2,8 @@
 
 
 A robust, Python-powered automation suite designed to secure enterprise database environments and streamline analytical workflows. This project bridges the gap between **Production Data Security** and **Data Analytics Accessibility**.
-<img width="1057" height="354" alt="email" src="https://github.com/user-attachments/assets/9500a0ca-347b-4b09-bd88-d7d353bd42e2" />
+
+<img width="1057" height="354" alt="Backup   Mirroring Automator drawio" src="https://github.com/user-attachments/assets/987c9aa1-048b-45b9-977e-1d58856701f8" />
 
 ## 🌟 Key Features
 
@@ -22,7 +23,7 @@ The system follows a modular architecture to ensure high availability and data i
 4. **Mirroring**: Automated `DROP/CREATE/RESTORE` cycle to a secondary "Analyst-Ready" database.
 5. **Notification**: SMTP gateway sends detailed logs to the IT/Data team.
 
-
+<img width="1057" height="354" alt="email" src="https://github.com/user-attachments/assets/9500a0ca-347b-4b09-bd88-d7d353bd42e2" />
 
 ## 🛠️ Tech Stack
 
