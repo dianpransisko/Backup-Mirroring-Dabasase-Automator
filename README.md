@@ -3,7 +3,7 @@
 
 A robust, Python-powered automation suite designed to secure enterprise database environments and streamline analytical workflows. This project bridges the gap between **Production Data Security** and **Data Analytics Accessibility**.
 
-<img width="1057" height="354" alt="Backup   Mirroring Automator drawio" src="https://github.com/user-attachments/assets/987c9aa1-048b-45b9-977e-1d58856701f8" />
+<img width="1057" height="554" alt="Backup   Mirroring Automator drawio" src="https://github.com/user-attachments/assets/987c9aa1-048b-45b9-977e-1d58856701f8" />
 
 ## 🌟 Key Features
 
