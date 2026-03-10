@@ -1,5 +1,5 @@
+<a href="https://doi.org/10.5281/zenodo.18934117"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.18934117.svg" alt="DOI"></a>
 # 🚀 Enterprise PostgreSQL Backup & Mirroring Automator
-
 
 A robust, Python-powered automation suite designed to secure enterprise database environments and streamline analytical workflows. This project bridges the gap between **Production Data Security** and **Data Analytics Accessibility**.
 <img width="1057" height="654" alt="Backup    Mirroring Automator drawio (1)" src="https://github.com/user-attachments/assets/d3b8a5f3-f537-4b47-82dc-b0d780def3af" />
