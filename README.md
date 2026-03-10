@@ -7,7 +7,7 @@
 
 
 
-![Email Notification Screenshot Testing ](email.png)
+![Email Notification Screenshot Testing ](email.png) 
 
 
 
