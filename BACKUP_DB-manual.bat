@@ -8,7 +8,7 @@ echo ============================================
 echo.
 
 :: 1. Masuk ke folder kerja
-cd /d "C:\Users\ASUS\Downloads\DATA ANALYST\backups"
+cd /d ".................."
 
 :: 2. Jalankan Python dan simpan status error-nya
 "lokasiinstal python \python.exe" backup_db.py
@@ -23,7 +23,7 @@ if %ERRORLEVEL% EQU 0 (
     echo Tekan ENTER untuk membuka folder backup...
     pause > nul
     :: 4. Buka folder backup
-    start "" "C:\Users\ASUS\Downloads\DATA ANALYST\backups"
+    start "" "..................\backups"
 ) else (
     color 0C
     echo.
